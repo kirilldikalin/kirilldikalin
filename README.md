@@ -4,6 +4,12 @@
 
 ### Мой стек 💪:
 ![python](https://img.shields.io/badge/-python-090909?style=for-the-badge&logo=python)
+![SQL](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=SQL)
+![json](https://img.shields.io/badge/-json-090909?style=for-the-badge&logo=json)
+![XML](https://img.shields.io/badge/-XML-090909?style=for-the-badge&logo=XML)
+![csv](https://img.shields.io/badge/-csv-090909?style=for-the-badge&logo=csv)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-090909?style=for-the-badge&logo=TensorFlow)
+![Keras](https://img.shields.io/badge/-Keras-090909?style=for-the-badge&logo=Keras)
 
 ### Контакты ✍:
 

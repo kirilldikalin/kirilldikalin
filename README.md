@@ -11,9 +11,10 @@
 ![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=Docker)
 ![Slack](https://img.shields.io/badge/-Slack-090909?style=for-the-badge&logo=Slack)
 ![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram)
+![Selenium](https://img.shields.io/badge/-Selenium-090909?style=for-the-badge&logo=Selenium)
 
 ### Мой стек 💪:
-![python](https://img.shields.io/badge/-python-090909?style=for-the-badge&logo=python)
+![python](https://img.shields.io/badge/-python-090909?style=for-the-badge&logo=python) 
 
 И его библиотеки:
 
@@ -27,7 +28,13 @@
 ![Keras](https://img.shields.io/badge/-Keras-090909?style=for-the-badge&logo=Keras)
 ![NLTK](https://img.shields.io/badge/-NLTK-090909?style=for-the-badge&logo=NLTK)
 
+Остальные языки с которыми я в той или иной мере знаком:
+
 ![SQL](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=SQL)
+![R](https://img.shields.io/badge/-R-090909?style=for-the-badge&logo=R) 
+![Golang](https://img.shields.io/badge/-Golang-090909?style=for-the-badge&logo=Golang) 
+
+Расширения:
 
 ![json](https://img.shields.io/badge/-json-090909?style=for-the-badge&logo=json)
 ![XML](https://img.shields.io/badge/-XML-090909?style=for-the-badge&logo=XML)

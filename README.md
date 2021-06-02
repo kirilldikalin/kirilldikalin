@@ -10,6 +10,7 @@
 ![Kaggle](https://img.shields.io/badge/-Kaggle-090909?style=for-the-badge&logo=Kaggle)
 ![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=Docker)
 ![Slack](https://img.shields.io/badge/-Slack-090909?style=for-the-badge&logo=Slack)
+![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram)
 
 ### Мой стек 💪:
 ![python](https://img.shields.io/badge/-python-090909?style=for-the-badge&logo=python)

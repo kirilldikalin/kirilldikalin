@@ -25,6 +25,7 @@
 ![Seaborn](https://img.shields.io/badge/-Seaborn-090909?style=for-the-badge&logo=Seaborn)
 ![Scikitlearn](https://img.shields.io/badge/-Scikitlearn-090909?style=for-the-badge&logo=Scikitlearn)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-090909?style=for-the-badge&logo=TensorFlow)
+![PyTorch](https://img.shields.io/badge/-PyTorch-090909?style=for-the-badge&logo=PyTorch)
 ![Keras](https://img.shields.io/badge/-Keras-090909?style=for-the-badge&logo=Keras)
 ![NLTK](https://img.shields.io/badge/-NLTK-090909?style=for-the-badge&logo=NLTK)
 

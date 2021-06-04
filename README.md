@@ -31,7 +31,8 @@
 
 Остальные языки с которыми я в той или иной мере знаком:
 
-![SQL](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=SQL)
+![postgresql](https://img.shields.io/badge/-postgresql-090909?style=for-the-badge&logo=postgresql)
+![mysql](https://img.shields.io/badge/-mysql-090909?style=for-the-badge&logo=mysql)
 ![R](https://img.shields.io/badge/-R-090909?style=for-the-badge&logo=R) 
 ![Golang](https://img.shields.io/badge/-Golang-090909?style=for-the-badge&logo=Golang) 
 

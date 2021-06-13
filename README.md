@@ -2,6 +2,8 @@
 
 ## Рад приветсвовать вас на своей странице
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kirilldikalin&label=Profile%20views&color=0e75b6&style=flat" alt="kirilldikalin" /> </p>
+
 ### Чем я пользуюсь для работы и исследований:
 
 ![Jupyter](https://img.shields.io/badge/-Jupyter-090909?style=for-the-badge&logo=Jupyter)

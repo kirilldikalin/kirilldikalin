@@ -1,8 +1,6 @@
 <h1 align="center">Привет! Меня зовут Кирилл</h1>
 <h2 align="center">Рад приветсвовать вас на своей странице!</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kirilldikalin&label=Profile%20views&color=0e75b6&style=flat" alt="kirilldikalin" /> </p>
-
 ### Чем я пользуюсь для работы и исследований:
 
 ![Jupyter](https://img.shields.io/badge/-Jupyter-090909?style=for-the-badge&logo=Jupyter)
@@ -48,3 +46,5 @@
 #### Email 📫: dikalinkirill@gmail.com
 #### Tel 📱: +79969643080
 #### tg : @kirilldikalin
+
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=kirilldikalin&label=Profile%20views&color=0e75b6&style=flat" alt="kirilldikalin" /> </p>

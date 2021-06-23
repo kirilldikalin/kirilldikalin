@@ -47,4 +47,4 @@
 #### Tel 📱: +79969643080
 #### tg : @kirilldikalin
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=kirilldikalin&label=Profile%20views&color=0e75b6&style=flat" alt="kirilldikalin" /> </p>
+

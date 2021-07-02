@@ -7,7 +7,6 @@
 ![PyCharm](https://img.shields.io/badge/-PyCharm-090909?style=for-the-badge&logo=PyCharm)
 ![github](https://img.shields.io/badge/-github-090909?style=for-the-badge&logo=github)
 ![Kaggle](https://img.shields.io/badge/-Kaggle-090909?style=for-the-badge&logo=Kaggle)
-![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=Docker)
 ![Slack](https://img.shields.io/badge/-Slack-090909?style=for-the-badge&logo=Slack)
 ![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram)
 ![Selenium](https://img.shields.io/badge/-Selenium-090909?style=for-the-badge&logo=Selenium)

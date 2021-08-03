@@ -13,6 +13,7 @@
 
 ### Мой стек 💪:
 ![python](https://img.shields.io/badge/-python-090909?style=for-the-badge&logo=python) 
+![sql](https://img.shields.io/badge/-sql-090909?style=for-the-badge&logo=sql)
 
 И его библиотеки:
 
@@ -29,7 +30,8 @@
 
 Остальные языки с которыми я в той или иной мере знаком:
 
-![sql](https://img.shields.io/badge/-sql-090909?style=for-the-badge&logo=sql)
+![R](https://img.shields.io/badge/-R-090909?style=for-the-badge&logo=R)
+![Go](https://img.shields.io/badge/-Go-090909?style=for-the-badge&logo=Go)
 
 Расширения:
 

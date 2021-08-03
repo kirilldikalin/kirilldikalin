@@ -15,11 +15,12 @@
 ![python](https://img.shields.io/badge/-python-090909?style=for-the-badge&logo=python) 
 ![sql](https://img.shields.io/badge/-sql-090909?style=for-the-badge&logo=sql)
 
-И его библиотеки:
+Библиотеки python:
 
 ![NumPy](https://img.shields.io/badge/-NumPy-090909?style=for-the-badge&logo=NumPy)
 ![SciPy](https://img.shields.io/badge/-SciPy-090909?style=for-the-badge&logo=SciPy)
 ![Pandas](https://img.shields.io/badge/-Pandas-090909?style=for-the-badge&logo=Pandas)
+![Theano](https://img.shields.io/badge/-Theano-090909?style=for-the-badge&logo=Theano)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-090909?style=for-the-badge&logo=Matplotlib)
 ![Seaborn](https://img.shields.io/badge/-Seaborn-090909?style=for-the-badge&logo=Seaborn)
 ![Scikitlearn](https://img.shields.io/badge/-Scikitlearn-090909?style=for-the-badge&logo=Scikitlearn)
@@ -27,6 +28,7 @@
 ![PyTorch](https://img.shields.io/badge/-PyTorch-090909?style=for-the-badge&logo=PyTorch)
 ![Keras](https://img.shields.io/badge/-Keras-090909?style=for-the-badge&logo=Keras)
 ![NLTK](https://img.shields.io/badge/-NLTK-090909?style=for-the-badge&logo=NLTK)
+![osmnx](https://img.shields.io/badge/-osmnx-090909?style=for-the-badge&logo=osmnx)
 
 Остальные языки с которыми я в той или иной мере знаком:
 

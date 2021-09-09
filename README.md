@@ -35,12 +35,6 @@
 ![R](https://img.shields.io/badge/-R-090909?style=for-the-badge&logo=R)
 ![Go](https://img.shields.io/badge/-Go-090909?style=for-the-badge&logo=Go)
 
-Расширения:
-
-![json](https://img.shields.io/badge/-json-090909?style=for-the-badge&logo=json)
-![XML](https://img.shields.io/badge/-XML-090909?style=for-the-badge&logo=XML)
-![csv](https://img.shields.io/badge/-csv-090909?style=for-the-badge&logo=csv)
-
 ### Контакты ✍:
 
 #### Email 📫: dikalinkirill@gmail.com

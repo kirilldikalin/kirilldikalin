@@ -8,7 +8,6 @@
 ![github](https://img.shields.io/badge/-github-090909?style=for-the-badge&logo=github)
 ![Kaggle](https://img.shields.io/badge/-Kaggle-090909?style=for-the-badge&logo=Kaggle)
 ![Slack](https://img.shields.io/badge/-Slack-090909?style=for-the-badge&logo=Slack)
-![Selenium](https://img.shields.io/badge/-Selenium-090909?style=for-the-badge&logo=Selenium)
 ![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=Docker)
 
 ### Мой стек 💪:

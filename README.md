@@ -41,6 +41,8 @@
 #### Tel 📱: +79969643080
 #### tg : @kirilldikalin
 
+### [Моё CV](https://drive.google.com/file/d/1N3jPnc5P6SiJ5Fp-6IwgTqX-GEuNtN1K/view?usp=sharing)
+
 ![projecteuler stats](https://projecteuler.net/profile/kirilldikalin.png)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kirilldikalin&show_icons=true&theme=tokyonight)  

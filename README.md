@@ -45,8 +45,8 @@
 ### Контакты ✍:
 
 #### Email 📫: dikalinkirill@gmail.com
-#### Tel 📱: +79969643080
 #### tg : [@kirilldikalin](https://t.me/kirilldikalin)
+#### LinkedIn : [LinkenIn](https://www.linkedin.com/in/kirill-dikalin-212069221/)
 
 
 

@@ -50,5 +50,3 @@
 
 ![projecteuler stats](https://projecteuler.net/profile/kirilldikalin.png)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kirilldikalin&show_icons=true&theme=tokyonight)  
-

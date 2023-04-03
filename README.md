@@ -50,5 +50,5 @@
 
 
 
-![projecteuler stats](https://projecteuler.net/profile/kirilldikalin.png?=12345)
+[Solved 111 out of 837 problems](projecteuler.net)
 

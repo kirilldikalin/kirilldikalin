@@ -1,12 +1,12 @@
-<h1 align="center">Привет! Меня зовут <a href="https://kirilldikalin.github.io/kirilldikalin.io/index.html">Кирилл</a></h1>
+<h1 align="center">Я <a href="https://kirilldikalin.github.io/kirilldikalin.io/index.html">Кирилл</a> и я DE</h1>
 
 ### Тех стек:
-![Scala](https://img.shields.io/badge/-Scala-090909?style=for-the-badge&logo=Scala)
-
-![python](https://img.shields.io/badge/-python-090909?style=for-the-badge&logo=python) ---
-![NumPy](https://img.shields.io/badge/-NumPy-090909?style=for-the-badge&logo=NumPy)
+<!-- ![Scala](https://img.shields.io/badge/-Scala-090909?style=for-the-badge&logo=Scala)
+ -->
+![python](https://img.shields.io/badge/-python-090909?style=for-the-badge&logo=python) 
+<!-- ![NumPy](https://img.shields.io/badge/-NumPy-090909?style=for-the-badge&logo=NumPy)
 ![Pandas](https://img.shields.io/badge/-Pandas-090909?style=for-the-badge&logo=Pandas)
-
+ -->
 ![sql](https://img.shields.io/badge/-sql-090909?style=for-the-badge&logo=sql) ---
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-090909?style=for-the-badge&logo=PostgreSQL)
 ![MySQL](https://img.shields.io/badge/-MySQL-090909?style=for-the-badge&logo=MySQL)

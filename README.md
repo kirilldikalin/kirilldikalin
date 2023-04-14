@@ -1,9 +1,10 @@
 <h1 align="center">Я <a href="https://kirilldikalin.github.io/kirilldikalin.io/index.html">Кирилл</a> и я DE</h1>
 
 ### Тех стек:
-<!-- ![Scala](https://img.shields.io/badge/-Scala-090909?style=for-the-badge&logo=Scala)
- -->
+![Scala](https://img.shields.io/badge/-Scala-090909?style=for-the-badge&logo=Scala)
 ![python](https://img.shields.io/badge/-python-090909?style=for-the-badge&logo=python) 
+![spark](https://img.shields.io/badge/-spark-090909?style=for-the-badge&logo=spark) 
+
 <!-- ![NumPy](https://img.shields.io/badge/-NumPy-090909?style=for-the-badge&logo=NumPy)
 ![Pandas](https://img.shields.io/badge/-Pandas-090909?style=for-the-badge&logo=Pandas)
  -->

@@ -1,4 +1,4 @@
-<h1 align="center">Я <a href="https://kirilldikalin.github.io/kirilldikalin.io/index.html">Кирилл</a> и я DE</h1>
+<h1 align="center"><a href="https://kirilldikalin.github.io/kirilldikalin.io/index.html">Кирилл</a>, DE</h1>
 
 ### Тех стек:
 ![Scala](https://img.shields.io/badge/-Scala-090909?style=for-the-badge&logo=Scala)

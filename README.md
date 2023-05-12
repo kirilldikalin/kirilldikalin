@@ -1,6 +1,6 @@
-<h1 align="center"><a href="https://kirilldikalin.github.io/kirilldikalin.io/index.html">Кирилл</a>, DE</h1>
+<h1 align="center"><a href="https://kirilldikalin.github.io/kirilldikalin.io/index.html">Kirill</a>, DE</h1>
 
-### Тех стек:
+### Technology stack:
 ![Scala](https://img.shields.io/badge/-Scala-090909?style=for-the-badge&logo=Scala)
 ![python](https://img.shields.io/badge/-python-090909?style=for-the-badge&logo=python) 
 ![spark](https://img.shields.io/badge/-spark-090909?style=for-the-badge&logo=spark) 
@@ -21,7 +21,7 @@
 ![R](https://img.shields.io/badge/-R-090909?style=for-the-badge&logo=R)
 ![Go](https://img.shields.io/badge/-Go-090909?style=for-the-badge&logo=Go) -->
 
-### BigData tools
+### BigData tools:
 
 ![Hbase](https://img.shields.io/badge/-Hbase-090909?style=for-the-badge&logo=Hbase)
 ![Kafka](https://img.shields.io/badge/-Kafka-090909?style=for-the-badge&logo=Kafka)
@@ -35,21 +35,11 @@
 ![Pig](https://img.shields.io/badge/-Pig-090909?style=for-the-badge&logo=Pig)
 ![Hive](https://img.shields.io/badge/-Hive-090909?style=for-the-badge&logo=Hive)
 
-<!-- ### Чем я пользуюсь для работы и исследований:
-
-![VsCode](https://img.shields.io/badge/-vscode-090909?style=for-the-badge&logo=vscode)
-
-![PyCharm](https://img.shields.io/badge/-PyCharm-090909?style=for-the-badge&logo=PyCharm)
-![VsCode](https://img.shields.io/badge/-vscode-090909?style=for-the-badge&logo=vscode)
-![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=Docker) -->
-
-### Контакты ✍:
+### Contacts:
 
 #### Email 📫: dikalinkirill@gmail.com
 #### tg : [@kirilldikalin](https://t.me/kirilldikalin)
 #### LinkedIn : [LinkenIn](https://www.linkedin.com/in/kirill-dikalin-212069221/)
 
 
-
-[Solved 122 out of 837 problems](https://projecteuler.net/)
-
+[Solved 123 out of 837 problems](https://projecteuler.net/)

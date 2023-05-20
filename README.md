@@ -1,26 +1,26 @@
 <h1 align="center"><a href="https://kirilldikalin.github.io/kirilldikalin.io/index.html">Kirill</a>, DE</h1>
 
-### Technology stack:
+<!-- ### Technology stack:
 ![Scala](https://img.shields.io/badge/-Scala-090909?style=for-the-badge&logo=Scala)
 ![python](https://img.shields.io/badge/-python-090909?style=for-the-badge&logo=python) 
-![spark](https://img.shields.io/badge/-spark-090909?style=for-the-badge&logo=spark) 
+![spark](https://img.shields.io/badge/-spark-090909?style=for-the-badge&logo=spark)  -->
 
 <!-- ![NumPy](https://img.shields.io/badge/-NumPy-090909?style=for-the-badge&logo=NumPy)
 ![Pandas](https://img.shields.io/badge/-Pandas-090909?style=for-the-badge&logo=Pandas)
  -->
-![sql](https://img.shields.io/badge/-sql-090909?style=for-the-badge&logo=sql) ---
+<!-- ![sql](https://img.shields.io/badge/-sql-090909?style=for-the-badge&logo=sql) ---
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-090909?style=for-the-badge&logo=PostgreSQL)
 ![MySQL](https://img.shields.io/badge/-MySQL-090909?style=for-the-badge&logo=MySQL)
 ![clickhouse](https://img.shields.io/badge/-clickhouse-090909?style=for-the-badge&logo=clickhouse)
 ![Oracle](https://img.shields.io/badge/-Oracle-090909?style=for-the-badge&logo=Oracle)
-![MongoDB](https://img.shields.io/badge/-MongoDB-090909?style=for-the-badge&logo=MongoDB)
+![MongoDB](https://img.shields.io/badge/-MongoDB-090909?style=for-the-badge&logo=MongoDB) -->
 
 <!-- Остальные языки с которыми я в той или иной мере знаком:
 
 ![Java](https://img.shields.io/badge/-java-090909?style=for-the-badge&logo=java) 
 ![R](https://img.shields.io/badge/-R-090909?style=for-the-badge&logo=R)
 ![Go](https://img.shields.io/badge/-Go-090909?style=for-the-badge&logo=Go) -->
-
+<!-- 
 ### BigData tools:
 
 ![Hbase](https://img.shields.io/badge/-Hbase-090909?style=for-the-badge&logo=Hbase)
@@ -33,7 +33,7 @@
 ![Spark](https://img.shields.io/badge/-Spark-090909?style=for-the-badge&logo=Spark)
 ![AirFlow](https://img.shields.io/badge/-AirFlow-090909?style=for-the-badge&logo=AirFlow)
 ![Pig](https://img.shields.io/badge/-Pig-090909?style=for-the-badge&logo=Pig)
-![Hive](https://img.shields.io/badge/-Hive-090909?style=for-the-badge&logo=Hive)
+![Hive](https://img.shields.io/badge/-Hive-090909?style=for-the-badge&logo=Hive) -->
 
 ### Contacts:
 

@@ -42,4 +42,4 @@
 #### LinkedIn : [LinkenIn](https://www.linkedin.com/in/kirill-dikalin-212069221/)
 
 
-[Solved 129 out of 843 problems](https://projecteuler.net/)
+[Solved 135 out of 845 problems](https://projecteuler.net/)

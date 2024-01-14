@@ -39,7 +39,7 @@
 
 #### Email 📫: dikalinkirill@gmail.com
 #### tg : [@kirilldikalin](https://t.me/kirilldikalin)
-#### LinkedIn : [LinkenIn](https://www.linkedin.com/in/kirill-dikalin-212069221/)
+#### LinkedIn : [LinkedIn](https://www.linkedin.com/in/kirill-dikalin-212069221/)
 
 
 [Solved 170 out of 867 problems](https://projecteuler.net/)

@@ -35,6 +35,17 @@
 ![Pig](https://img.shields.io/badge/-Pig-090909?style=for-the-badge&logo=Pig)
 ![Hive](https://img.shields.io/badge/-Hive-090909?style=for-the-badge&logo=Hive) -->
 
+## Star History
+
+<a href="https://star-history.com/#kirilldikalin/myknowledge&Date">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=kirilldikalin/myknowledge&type=Date&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=kirilldikalin/myknowledge&type=Date" />
+    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=kirilldikalin/myknowledge&type=Date" />
+  </picture>
+</a>
+
+
 ### Contacts:
 
 #### Email 📫: dikalinkirill@gmail.com

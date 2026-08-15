@@ -35,9 +35,9 @@
 ![Pig](https://img.shields.io/badge/-Pig-090909?style=for-the-badge&logo=Pig)
 ![Hive](https://img.shields.io/badge/-Hive-090909?style=for-the-badge&logo=Hive) -->
 
-## myknowledge Stars
+## Star History
 
-[![myknowledge stars](https://img.shields.io/github/stars/kirilldikalin/myknowledge?style=for-the-badge&logo=github&label=Stars)](https://github.com/kirilldikalin/myknowledge/stargazers)
+[![Star History Chart](https://raw.githubusercontent.com/kirilldikalin/myknowledge/main/assets/star-history.svg)](https://github.com/kirilldikalin/myknowledge/stargazers)
 
 
 ### Contacts:

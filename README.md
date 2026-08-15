@@ -37,7 +37,13 @@
 
 ## Star History
 
-[![Star History Chart](https://raw.githubusercontent.com/kirilldikalin/myknowledge/main/assets/star-history.svg)](https://github.com/kirilldikalin/myknowledge/stargazers)
+<a href="https://www.star-history.com/?repos=kirilldikalin%2Fmyknowledge&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=kirilldikalin/myknowledge&type=date&theme=dark&legend=top-left&sealed_token=VWE7nOJEfshe2eo45OjfhuErdRvrbQNIxIbM65qv7xHSel_bzdPBFHt9_u0qAN98agBqSxKFfd5cZXbxvxbRTM_jxC7XufEemc2StonWQ37ZJQAggqMvnR8Jl42i_S_t2lk5ZKRqaIAmpwIbyFicKnqczAP_ZMefydDDTyVh9RdNbUKLf7SJW2y__udM" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=kirilldikalin/myknowledge&type=date&legend=top-left&sealed_token=VWE7nOJEfshe2eo45OjfhuErdRvrbQNIxIbM65qv7xHSel_bzdPBFHt9_u0qAN98agBqSxKFfd5cZXbxvxbRTM_jxC7XufEemc2StonWQ37ZJQAggqMvnR8Jl42i_S_t2lk5ZKRqaIAmpwIbyFicKnqczAP_ZMefydDDTyVh9RdNbUKLf7SJW2y__udM" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=kirilldikalin/myknowledge&type=date&legend=top-left&sealed_token=VWE7nOJEfshe2eo45OjfhuErdRvrbQNIxIbM65qv7xHSel_bzdPBFHt9_u0qAN98agBqSxKFfd5cZXbxvxbRTM_jxC7XufEemc2StonWQ37ZJQAggqMvnR8Jl42i_S_t2lk5ZKRqaIAmpwIbyFicKnqczAP_ZMefydDDTyVh9RdNbUKLf7SJW2y__udM" />
+ </picture>
+</a>
 
 
 ### Contacts:

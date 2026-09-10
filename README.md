@@ -53,4 +53,4 @@
 #### LinkedIn : [LinkedIn](https://www.linkedin.com/in/kirill-dikalin-212069221/)
 
 
-[Solved 203 out of 1007 problems](https://projecteuler.net/)
+[Solved 229 out of 1008 problems](https://projecteuler.net/)

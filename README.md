@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://kirilldikalin.github.io/kirilldikalin.io/index.html">Kirill</a>, DE</h1>
+<h1 align="center"><a href="https://kirilldikalin.com">Kirill</a>, DE</h1>
 
 <!-- ### Technology stack:
 ![Scala](https://img.shields.io/badge/-Scala-090909?style=for-the-badge&logo=Scala)
